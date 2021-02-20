@@ -1,2 +1,2 @@
 # LeetCode
-Self practice
+- [All](https://leetcode.com/problemset/all/)
